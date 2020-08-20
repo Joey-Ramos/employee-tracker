@@ -23,7 +23,7 @@ A command-line application to manage a company's employee database, using Node.j
 You must have MySQL pre-installed on your machine. Once that is done clone this project on to your computer, then cd into it. In the root directory, Run npm i express inquirer mysql2 dotenv console.table. Enter your MySQL user and password into the .env file, then in the terminal 'mysql -u root -p', enter your password, source db/schema.sql, source db/seeds.sql, quit.
 
 ## Usage
-To use the program run 'npm start' in the terminal. Here is a video of the application in action.
+To use the program run 'npm start' in the terminal. [Here](https://bootcampspot.instructuremedia.com/embed/af0b29ba-e017-4481-8f22-3c5fe8a93b70) is a video of the application in action.
 
 ## License
 This project is covered under the MIT license
